@@ -10,8 +10,45 @@ import { useWarmUpBrowser } from "@/hooks/useWarmUpBrowser";
 import { defaultStyles } from "@/constants/Styles";
 import styles from "./login.style";
 import { Ionicons } from "@expo/vector-icons";
+import { useOAuth } from "@clerk/clerk-expo";
+import { useRouter } from "expo-router";
+enum Strategy {
+  Google = "oauth_google",
+  Apple = "oauth_apple",
+  Facebook = "oauth_facebook",
+}
 const Login = () => {
   useWarmUpBrowser();
+  const router = useRouter();
+  const { startOAuthFlow: googleAuth } = useOAuth({ strategy: "oauth_google" });
+  const { startOAuthFlow: appleAuth } = useOAuth({ strategy: "oauth_apple" });
+  const { startOAuthFlow: facebookAuth } = useOAuth({
+    strategy: "oauth_facebook",
+  });
+
+  const onSelectAuth = async (strategy: Strategy) => {
+    const selectedAuth = {
+      [Strategy.Google]: googleAuth,
+      [Strategy.Apple]: appleAuth,
+      [Strategy.Facebook]: facebookAuth,
+    }[strategy];
+
+    // goolge=>oauth_google=> oauth_google:googleAuth=>the function above
+
+    try {
+      const { createdSessionId, setActive } = await selectedAuth(); //one of this shit :googleAuth,appleAuth,facebookAuth
+      console.log(
+        "🚀 ~ file: login.tsx:39 ~ onSelectAuth ~ createdSessionId:",
+        createdSessionId
+      );
+      if (createdSessionId) {
+        setActive!({ session: createdSessionId });
+        router.back();
+      }
+    } catch (error) {
+      console.log("🚀 ~ file: login.tsx:49 ~ OAuth ~ error:", error);
+    }
+  };
   return (
     <View style={styles.container}>
       <TextInput
@@ -41,6 +78,7 @@ const Login = () => {
       </View>
 
       <View style={{ rowGap: 20 }}>
+        {/* //PHONE */}
         <TouchableOpacity style={styles.btnOutline}>
           <Ionicons
             name="call-outline"
@@ -49,7 +87,11 @@ const Login = () => {
           />
           <Text style={styles.btnOutlineText}>Continue with Phone</Text>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.btnOutline}>
+        {/* //APPLE */}
+        <TouchableOpacity
+          style={styles.btnOutline}
+          onPress={() => onSelectAuth(Strategy.Apple)}
+        >
           <Ionicons
             name="md-logo-apple"
             size={24}
@@ -57,7 +99,11 @@ const Login = () => {
           />
           <Text style={styles.btnOutlineText}>Continue with Apple</Text>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.btnOutline}>
+        {/* GOOGLE */}
+        <TouchableOpacity
+          style={styles.btnOutline}
+          onPress={() => onSelectAuth(Strategy.Google)}
+        >
           <Ionicons
             name="md-logo-google"
             size={24}
@@ -65,7 +111,11 @@ const Login = () => {
           />
           <Text style={styles.btnOutlineText}>Continue with Google</Text>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.btnOutline}>
+        {/* FACEBOOK */}
+        <TouchableOpacity
+          style={styles.btnOutline}
+          onPress={() => onSelectAuth(Strategy.Facebook)}
+        >
           <Ionicons
             name="md-logo-facebook"
             size={24}
