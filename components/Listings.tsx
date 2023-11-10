@@ -1,12 +1,18 @@
-import { View, Text } from 'react-native'
-import React from 'react'
-
-const Listings = () => {
+import { View, Text } from "react-native";
+import React, { useEffect } from "react";
+interface Props {
+  listings: any[];
+  category: string;
+}
+const Listings = ({ listings, category }: Props) => {
+  useEffect(() => {
+    console.log("reload listing");
+  }, [category]);
   return (
     <View>
       <Text>Listings</Text>
     </View>
-  )
-}
+  );
+};
 
-export default Listings
+export default Listings;
