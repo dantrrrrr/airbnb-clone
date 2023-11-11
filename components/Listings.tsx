@@ -8,6 +8,7 @@ import {
   Image,
 } from "react-native";
 import React, { useEffect, useRef, useState } from "react";
+import Animated, { FadeInRight, FadeOutLeft } from "react-native-reanimated";
 interface Props {
   listings: any[];
   category: string;
@@ -16,6 +17,7 @@ import { defaultStyles } from "@/constants/Styles";
 import { Link } from "expo-router";
 import { Listing } from "@/interfaces/listing";
 import { Ionicons } from "@expo/vector-icons";
+
 const Listings = ({ listings: items, category }: Props) => {
   const [loading, setLoading] = useState(false);
   const listRef = useRef<FlatList>(null);
@@ -29,7 +31,11 @@ const Listings = ({ listings: items, category }: Props) => {
   const renderRow: ListRenderItem<Listing> = ({ item }) => (
     <Link href={`/listing/${item.id}`} asChild>
       <TouchableOpacity>
-        <View style={styles.listing}>
+        <Animated.View
+          style={styles.listing}
+          entering={FadeInRight}
+          exiting={FadeOutLeft}
+        >
           <Image source={{ uri: item.medium_url }} style={styles.image} />
           <TouchableOpacity
             style={{ position: "absolute", right: 30, top: 30 }}
@@ -63,12 +69,12 @@ const Listings = ({ listings: items, category }: Props) => {
             <Text style={{ fontFamily: "semibold" }}>$ {item.price}</Text>
             <Text style={{ fontFamily: "regular" }}>/ night</Text>
           </View>
-        </View>
+        </Animated.View>
       </TouchableOpacity>
     </Link>
   );
   return (
-    <View style={defaultStyles.container}>
+    <View style={[defaultStyles.container,{marginTop:120}]}>
       <FlatList
         data={loading ? [] : items}
         ref={listRef}
