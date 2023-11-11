@@ -40,3 +40,4 @@ yarn-error.*
 expo-env.d.ts
 # @end expo-cli
 .env
+constants/data/subset_airbnb-listings.geojson
