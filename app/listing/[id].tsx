@@ -6,9 +6,10 @@ import {
   Text,
   Dimensions,
   TouchableOpacity,
+  Share,
 } from "react-native";
-import React from "react";
-import { useLocalSearchParams } from "expo-router";
+import React, { useLayoutEffect } from "react";
+import { useLocalSearchParams, useNavigation } from "expo-router";
 import listingsData from "@/constants/data/subset_airbnb-listings.json";
 import { Listing } from "@/interfaces/listing";
 import Animated, {
@@ -28,10 +29,40 @@ const { width } = Dimensions.get("window");
 const Page = () => {
   const { id } = useLocalSearchParams<{ id: string }>();
   const listing = (listingsData as Listing[]).find((item) => item.id === id);
+  const navigation = useNavigation();
+  if (!listing) return null;
 
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
   const scrollOffset = useScrollViewOffset(scrollRef);
-
+  const shareListing = async () => {
+    try {
+      await Share.share({ title: listing?.name, url: listing?.listing_url });
+    } catch (error) {
+      console.log("🚀 ~ file: [id].tsx:41 ~ shareListing ~ error:", error);
+    }
+  };
+  useLayoutEffect(() => {
+    navigation.setOptions({
+      headerRight: () => (
+        <View style={styles.bar}>
+          <TouchableOpacity style={styles.roundButton} onPress={shareListing}>
+            <Ionicons name="share-outline" size={24} />
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.roundButton} onPress={shareListing}>
+            <Ionicons name="heart-outline" size={24} />
+          </TouchableOpacity>
+        </View>
+      ),
+      headerLeft: () => (
+        <TouchableOpacity
+          style={styles.roundButton}
+          onPress={() => navigation.goBack()}
+        >
+          <Ionicons name="chevron-back" size={24} color={Colors.grey} />
+        </TouchableOpacity>
+      ),
+    });
+  }, []);
   const imageAnimatedStyle = useAnimatedStyle(() => {
     return {
       transform: [
@@ -52,7 +83,6 @@ const Page = () => {
       ],
     };
   });
-  if (!listing) return null;
 
   return (
     <View style={styles.container}>
@@ -169,5 +199,22 @@ const styles = StyleSheet.create({
     gap: 4,
   },
   footerPrice: { fontSize: 18, fontFamily: "semibold" },
+  bar: {
+    flexDirection: "row",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: 10,
+  },
+  roundButton: {
+    width: 40,
+    height: 40,
+    backgroundColor: "#fff",
+    alignItems: "center",
+    justifyContent: "center",
+    color: Colors.primary,
+    borderRadius: 50,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.grey,
+  },
 });
 export default Page;
