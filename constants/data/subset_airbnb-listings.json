@@ -193,11 +193,7 @@
     "host_neighbourhood": "Upper West Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["phone", "facebook", "reviews"],
     "street": "Upper West Side, New York, NY 10025, United States",
     "neighbourhood": "Upper West Side",
     "neighbourhood_cleansed": "Upper West Side",
@@ -269,288 +265,9 @@
       "lon": -73.96473475914055,
       "lat": 40.80060316950204
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
-  {
-    "id": "14787013",
-    "listing_url": "https://www.airbnb.com/rooms/14787013",
-    "scrape_id": "20170502132028",
-    "last_scraped": "2017-05-03",
-    "name": "Midtown Lux 1 bedroom",
-    "summary": "Beautiful 1 bedroom apartment with striking views located 1 block from the west side waterfront & 5 blocks to Times Square . All essentials included . Access to small private park included .",
-    "space": "Cozy and Quaint with striking views of the Hudson",
-    "description": "Beautiful 1 bedroom apartment with striking views located 1 block from the west side waterfront & 5 blocks to Times Square . All essentials included . Access to small private park included . Cozy and Quaint with striking views of the Hudson Guests will gain access after full name Is given to front desk . I will be here to walk you thru key process & fobs I'm available 24/7 for Restaurant recommendations or anything you may need Quiet neighborhood with location for prime tourist attractions or a nice weekend getaway . Gotham Market is located just 2 blocks away with all famous food vendors & great sangria . The bus stop is right on the corner of 42nd & 11th which takes you cross town. Get off at port authority ( or just a 3 block walk) to catch the main hub to any location in the city",
-    "experiences_offered": "none",
-    "neighborhood_overview": "Quiet neighborhood with location for prime tourist attractions or a nice weekend getaway . Gotham Market is located just 2 blocks away with all famous food vendors & great sangria .",
-    "notes": null,
-    "transit": "The bus stop is right on the corner of 42nd & 11th which takes you cross town. Get off at port authority ( or just a 3 block walk) to catch the main hub to any location in the city",
-    "access": "Guests will gain access after full name Is given to front desk . I will be here to walk you thru key process & fobs",
-    "interaction": "I'm available 24/7 for Restaurant recommendations or anything you may need",
-    "house_rules": "This is a high end doorman building . Please mind the sound in the evenings",
-    "thumbnail_url": "https://a0.muscache.com/im/pictures/160509a1-b3ee-47dd-88cc-f291d51785d9.jpg?aki_policy=small",
-    "medium_url": "https://a0.muscache.com/im/pictures/160509a1-b3ee-47dd-88cc-f291d51785d9.jpg?aki_policy=medium",
-    "picture_url": {
-      "thumbnail": true,
-      "filename": "160509a1-b3ee-47dd-88cc-f291d51785d9.jpg",
-      "format": "JPEG",
-      "width": 360,
-      "mimetype": "image/jpeg",
-      "etag": "\"f334348a982b0b55424c84f7e51fec36ed6f9cb5\"",
-      "id": "0f4a9eda9cbb991642b004a339017791",
-      "last_synchronized": "2019-06-04T18:23:17.286231",
-      "color_summary": [
-        "rgba(231, 226, 220, 1.00)",
-        "rgba(148, 141, 146, 1.00)",
-        "rgba(52, 48, 55, 1.00)"
-      ],
-      "height": 426
-    },
-    "xl_picture_url": "https://a0.muscache.com/im/pictures/160509a1-b3ee-47dd-88cc-f291d51785d9.jpg?aki_policy=x_large",
-    "host_id": "22859001",
-    "host_url": "https://www.airbnb.com/users/show/22859001",
-    "host_name": "Jaci",
-    "host_since": "2014-10-22",
-    "host_location": "New York, New York, United States",
-    "host_about": "Enjoying living in this amazing city. Always here to help with referring restaurant or activities in the area. Feel free to reach out with any questions you may have I usually answer within 24hrs or less!",
-    "host_response_time": "within a few hours",
-    "host_response_rate": 100,
-    "host_acceptance_rate": null,
-    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/5dc4963a-d96c-4758-a3f9-2e89bfa8e3ca.jpg?aki_policy=profile_small",
-    "host_picture_url": "https://a0.muscache.com/im/pictures/5dc4963a-d96c-4758-a3f9-2e89bfa8e3ca.jpg?aki_policy=profile_x_medium",
-    "host_neighbourhood": null,
-    "host_listings_count": 1,
-    "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "jumio"
-    ],
-    "street": "New York, NY 10036, United States",
-    "neighbourhood": null,
-    "neighbourhood_cleansed": "Hell's Kitchen",
-    "neighbourhood_group_cleansed": "Manhattan",
-    "city": "New York",
-    "state": "NY",
-    "zipcode": "10036",
-    "market": "New York",
-    "smart_location": "New York, NY",
-    "country_code": "US",
-    "country": "United States",
-    "latitude": "40.762307884760794",
-    "longitude": "-73.99910117737741",
-    "property_type": "Apartment",
-    "room_type": "Entire home/apt",
-    "accommodates": 3,
-    "bathrooms": 1.0,
-    "bedrooms": 1,
-    "beds": 1,
-    "bed_type": "Real Bed",
-    "amenities": [
-      "TV",
-      "Internet",
-      "Wireless Internet",
-      "Air conditioning",
-      "Kitchen",
-      "Free parking on premises",
-      "Elevator in building",
-      "Heating",
-      "Family/kid friendly",
-      "Essentials",
-      "Shampoo",
-      "Hangers",
-      "Hair dryer",
-      "Iron"
-    ],
-    "square_feet": null,
-    "price": 200,
-    "weekly_price": null,
-    "monthly_price": null,
-    "security_deposit": 300,
-    "cleaning_fee": 300,
-    "guests_included": 2,
-    "extra_people": 150,
-    "minimum_nights": 2,
-    "maximum_nights": 12,
-    "calendar_updated": "3 weeks ago",
-    "has_availability": null,
-    "availability_30": 16,
-    "availability_60": 34,
-    "availability_90": 64,
-    "availability_365": 334,
-    "calendar_last_scraped": "2017-05-03",
-    "number_of_reviews": 7,
-    "first_review": "2016-09-14",
-    "last_review": "2017-04-16",
-    "review_scores_rating": 97,
-    "review_scores_accuracy": 10,
-    "review_scores_cleanliness": 10,
-    "review_scores_checkin": 9,
-    "review_scores_communication": 10,
-    "review_scores_location": 10,
-    "review_scores_value": 9,
-    "license": null,
-    "jurisdiction_names": null,
-    "cancellation_policy": "moderate",
-    "calculated_host_listings_count": 1,
-    "reviews_per_month": 0.91,
-    "geolocation": {
-      "lon": -73.99910117737741,
-      "lat": 40.762307884760794
-    },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified"
-    ]
-  },
-  {
-    "id": "9881685",
-    "listing_url": "https://www.airbnb.com/rooms/9881685",
-    "scrape_id": "20170502132028",
-    "last_scraped": "2017-05-03",
-    "name": "NYC Midtown West Luxury 2BR-Apt",
-    "summary": "This beautifully furnished apartment is complete with a fully equipped kitchen, a living area, & 2 spacious bedrooms. Guests can enjoy the various amenities including an indoor rooftop swimming pool with city views, a fitness center and more.",
-    "space": "2 Bed, 2 Bath, Sleeps 5",
-    "description": "This beautifully furnished apartment is complete with a fully equipped kitchen, a living area, & 2 spacious bedrooms. Guests can enjoy the various amenities including an indoor rooftop swimming pool with city views, a fitness center and more. 2 Bed, 2 Bath, Sleeps 5 This apartment is situated in Midtown West, only blocks away from Central Park. Thanks to its proximity to some of the world\u2019s leading cultural destinations, this building is one of the most desirable residences in Manhattan. Guests can spend the day perusing the high-end Shops at Columbus Circle, and then enjoy an evening performance at the world-famous Lincoln Center, Carnegie Hall, or one of the many venues in the Theatre District. Each beautifully furnished apartment includes spacious walk-in closets, marble bathrooms, and a fully equipped kitchen with granite countertops. The building has numerous amenities for its guests to enjoy, including a playroom for children, private fitness center, indoor swimming pool, outdoor",
-    "experiences_offered": "none",
-    "neighborhood_overview": "Major Attractions: \u2022Restaurants \u2013 McGee\u2019s (.1 mi), Marea (.2 mi), Per Se (.2 mi) \u2022Whole Foods (.2 mi) for groceries  \u2022Carnegie Hall \u2013 .2 mi \u2022Theatre District \u2013 .5 mi  \u2022Columbus Circle \u2013 .2 mi \u2022Grand Central Station  \u2013 1.1 mi \u2022Yankee Stadium \u2013 9.7 mi \u2022Madison Square Garden \u2013 1.2 mi \u2022Museum of Natural History \u2013 1.3 mi \u2022Metropolitan Museum of Art \u2013 1.7 mi \u2022Lincoln Center for the Performing Arts \u2013 .5 mi \u2022Times Square \u2013 .5 mi \u2022Rockefeller Center \u2013 .6 mi \u2022Empire State Building \u2013 1.5 mi \u2022Central Park \u2013 .5 mi",
-    "notes": null,
-    "transit": "The property is conveniently located thirty minutes from Newark Liberty International Airport and twenty minutes from LaGuardia Airport. The building is near the 57th St. subway stop, with easy access to the N and R lines.",
-    "access": "This apartment is situated in Midtown West, only blocks away from Central Park. Thanks to its proximity to some of the world\u2019s leading cultural destinations, this building is one of the most desirable residences in Manhattan. Guests can spend the day perusing the high-end Shops at Columbus Circle, and then enjoy an evening performance at the world-famous Lincoln Center, Carnegie Hall, or one of the many venues in the Theatre District. Each beautifully furnished apartment includes spacious walk-in closets, marble bathrooms, and a fully equipped kitchen with granite countertops. The building has numerous amenities for its guests to enjoy, including a playroom for children, private fitness center, indoor swimming pool, outdoor jogging track, and sundeck. Unit Amenities Include: \u2022Fully furnished \u2013 bedding, table linens, dinnerware, flatware, glassware, bathroom accessories and towels, basic kitchen electronics, and basic cleaning supplies \u2022Fully equipped gourmet kitchens with granite count",
-    "interaction": "We pride ourselves in offering top of the line service to all of our guests. With our convenient check-in process and 24-hour customer service, you have all the control over your travel plans. Our dedicated agents are available any time to address any questions or concerns.",
-    "house_rules": "Please remember that this is a residential building. The building rules, apartment occupancy restrictions and the year-round tenants must be respected. - Pet Policy: Please note that this building may have specific pet restrictions including # pets, pet size and breed. Prior to confirming your reservation, please reach out to the property to check their pet policies.",
-    "thumbnail_url": null,
-    "medium_url": null,
-    "picture_url": {
-      "thumbnail": true,
-      "filename": "c30dc26a-abe9-40c7-826e-490182db0bbd.jpg",
-      "format": "JPEG",
-      "width": 639,
-      "mimetype": "image/jpeg",
-      "etag": "\"48afcacd40955a082665c4bf3ada1461d106f3d6\"",
-      "id": "54aa727ce5d8df8b1b05e2c299b41aad",
-      "last_synchronized": "2019-06-04T19:55:37.912905",
-      "color_summary": [
-        "rgba(192, 188, 187, 1.00)",
-        "rgba(149, 151, 154, 1.00)",
-        "rgba(114, 95, 81, 1.00)"
-      ],
-      "height": 426
-    },
-    "xl_picture_url": null,
-    "host_id": "30283594",
-    "host_url": "https://www.airbnb.com/users/show/30283594",
-    "host_name": "Kara",
-    "host_since": "2015-03-30",
-    "host_location": "US",
-    "host_about": null,
-    "host_response_time": "within a few hours",
-    "host_response_rate": 98,
-    "host_acceptance_rate": null,
-    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/0e638325-1c9e-48f7-9fa5-b7baf5135f6d.jpg?aki_policy=profile_small",
-    "host_picture_url": "https://a0.muscache.com/im/pictures/0e638325-1c9e-48f7-9fa5-b7baf5135f6d.jpg?aki_policy=profile_x_medium",
-    "host_neighbourhood": "Fenway/Kenmore",
-    "host_listings_count": 855,
-    "host_total_listings_count": 855,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio",
-      "work_email"
-    ],
-    "street": "Midtown, New York, NY 10019, United States",
-    "neighbourhood": "Midtown",
-    "neighbourhood_cleansed": "Midtown",
-    "neighbourhood_group_cleansed": "Manhattan",
-    "city": "New York",
-    "state": "NY",
-    "zipcode": "10019",
-    "market": "New York",
-    "smart_location": "New York, NY",
-    "country_code": "US",
-    "country": "United States",
-    "latitude": "40.76664880209002",
-    "longitude": "-73.98281189099117",
-    "property_type": "Apartment",
-    "room_type": "Entire home/apt",
-    "accommodates": 5,
-    "bathrooms": 2.0,
-    "bedrooms": 2,
-    "beds": 2,
-    "bed_type": "Real Bed",
-    "amenities": [
-      "TV",
-      "Cable TV",
-      "Internet",
-      "Wireless Internet",
-      "Air conditioning",
-      "Pool",
-      "Kitchen",
-      "Doorman",
-      "Elevator in building",
-      "Heating",
-      "Family/kid friendly",
-      "Washer",
-      "Dryer",
-      "Smoke detector",
-      "Carbon monoxide detector",
-      "Essentials",
-      "Shampoo",
-      "24-hour check-in",
-      "Hangers",
-      "Hair dryer",
-      "Iron",
-      "Laptop friendly workspace",
-      "Self Check-In",
-      "Doorman Entry"
-    ],
-    "square_feet": null,
-    "price": 190,
-    "weekly_price": null,
-    "monthly_price": null,
-    "security_deposit": null,
-    "cleaning_fee": 100,
-    "guests_included": 1,
-    "extra_people": 0,
-    "minimum_nights": 30,
-    "maximum_nights": 1125,
-    "calendar_updated": "today",
-    "has_availability": null,
-    "availability_30": 29,
-    "availability_60": 59,
-    "availability_90": 89,
-    "availability_365": 364,
-    "calendar_last_scraped": "2017-05-03",
-    "number_of_reviews": 0,
-    "first_review": null,
-    "last_review": null,
-    "review_scores_rating": null,
-    "review_scores_accuracy": null,
-    "review_scores_cleanliness": null,
-    "review_scores_checkin": null,
-    "review_scores_communication": null,
-    "review_scores_location": null,
-    "review_scores_value": null,
-    "license": null,
-    "jurisdiction_names": null,
-    "cancellation_policy": "strict",
-    "calculated_host_listings_count": 12,
-    "reviews_per_month": null,
-    "geolocation": {
-      "lon": -73.98281189099117,
-      "lat": 40.76664880209002
-    },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified",
-      "Is Location Exact"
-    ]
-  },
+
   {
     "id": "17155341",
     "listing_url": "https://www.airbnb.com/rooms/17155341",
@@ -679,10 +396,7 @@
       "lon": -74.00525256792052,
       "lat": 40.737192612801294
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "6269610",
@@ -733,13 +447,7 @@
     "host_neighbourhood": "Hell's Kitchen",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba",
-      "work_email"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba", "work_email"],
     "street": "Hell's Kitchen, New York, NY 10018, United States",
     "neighbourhood": "Hell's Kitchen",
     "neighbourhood_cleansed": "Hell's Kitchen",
@@ -953,137 +661,7 @@
       "Is Location Exact"
     ]
   },
-  {
-    "id": "3317655",
-    "listing_url": "https://www.airbnb.com/rooms/3317655",
-    "scrape_id": "20170502132028",
-    "last_scraped": "2017-05-04",
-    "name": "BEAUTIFUL MASTERBEDROOM IN TRIBECA",
-    "summary": "Looking for a female ONLY to stay in the master bedroom. This is a three bedroom apartment, all utilities are brand new. There are 2 other girls living here, both working professionals, friendly, and respectful. *Balcony in apartment!",
-    "space": "-In unit washer and dryer -Queen bed",
-    "description": "Looking for a female ONLY to stay in the master bedroom. This is a three bedroom apartment, all utilities are brand new. There are 2 other girls living here, both working professionals, friendly, and respectful. *Balcony in apartment! -In unit washer and dryer -Queen bed TriBeCa is a beautiful neighborhood, restaurants are conveniently located outside of the apartment building.  Apartment overlooks the skyline and Hudson River.  The neighborhood offers a great relaxing escape and is accessible to other attractions. 1, 2, 3, A, C, E train all located within 5 minutes walking distance",
-    "experiences_offered": "none",
-    "neighborhood_overview": "TriBeCa is a beautiful neighborhood, restaurants are conveniently located outside of the apartment building.  Apartment overlooks the skyline and Hudson River.  The neighborhood offers a great relaxing escape and is accessible to other attractions.",
-    "notes": null,
-    "transit": "1, 2, 3, A, C, E train all located within 5 minutes walking distance",
-    "access": null,
-    "interaction": null,
-    "house_rules": null,
-    "thumbnail_url": null,
-    "medium_url": null,
-    "picture_url": {
-      "thumbnail": true,
-      "filename": "811eb56e-173f-49c2-8744-f7230cc3303c.jpg",
-      "format": "JPEG",
-      "width": 639,
-      "mimetype": "image/jpeg",
-      "etag": "\"5ffdbe4f7a65fdf30bb9819cbd2d0870390138c1\"",
-      "id": "d798b2e2f88fa0a00cef6dd6aea12afd",
-      "last_synchronized": "2019-06-04T21:40:03.144825",
-      "color_summary": [
-        "rgba(116, 109, 91, 1.00)",
-        "rgba(119, 115, 102, 1.00)",
-        "rgba(119, 117, 112, 1.00)"
-      ],
-      "height": 426
-    },
-    "xl_picture_url": null,
-    "host_id": "13863009",
-    "host_url": "https://www.airbnb.com/users/show/13863009",
-    "host_name": "Leya",
-    "host_since": "2014-04-03",
-    "host_location": "New York, New York, United States",
-    "host_about": "I am traveling to Paris for work for the first time.  I love traveling, exploring new cities and going out to eat and shopping.  I am very easy to get a long with and I consider myself to be a very respectable person.  I am excited for this journey and I look forward to enjoying my first trip to Paris!",
-    "host_response_time": "a few days or more",
-    "host_response_rate": 0,
-    "host_acceptance_rate": null,
-    "host_thumbnail_url": "https://a0.muscache.com/im/users/13863009/profile_pic/1396627412/original.jpg?aki_policy=profile_small",
-    "host_picture_url": "https://a0.muscache.com/im/users/13863009/profile_pic/1396627412/original.jpg?aki_policy=profile_x_medium",
-    "host_neighbourhood": "Tribeca",
-    "host_listings_count": 1,
-    "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
-    "street": "Tribeca, New York, NY 10013, United States",
-    "neighbourhood": "Tribeca",
-    "neighbourhood_cleansed": "Tribeca",
-    "neighbourhood_group_cleansed": "Manhattan",
-    "city": "New York",
-    "state": "NY",
-    "zipcode": "10013",
-    "market": "New York",
-    "smart_location": "New York, NY",
-    "country_code": "US",
-    "country": "United States",
-    "latitude": "40.71848503875831",
-    "longitude": "-74.01005601582865",
-    "property_type": "Apartment",
-    "room_type": "Private room",
-    "accommodates": 1,
-    "bathrooms": 1.0,
-    "bedrooms": 1,
-    "beds": 1,
-    "bed_type": "Real Bed",
-    "amenities": [
-      "TV",
-      "Internet",
-      "Wireless Internet",
-      "Air conditioning",
-      "Wheelchair accessible",
-      "Kitchen",
-      "Doorman",
-      "Elevator in building",
-      "Heating",
-      "Washer",
-      "Dryer",
-      "Essentials"
-    ],
-    "square_feet": null,
-    "price": 132,
-    "weekly_price": null,
-    "monthly_price": null,
-    "security_deposit": 100,
-    "cleaning_fee": null,
-    "guests_included": 1,
-    "extra_people": 0,
-    "minimum_nights": 1,
-    "maximum_nights": 1125,
-    "calendar_updated": "3 months ago",
-    "has_availability": null,
-    "availability_30": 3,
-    "availability_60": 3,
-    "availability_90": 3,
-    "availability_365": 3,
-    "calendar_last_scraped": "2017-05-04",
-    "number_of_reviews": 0,
-    "first_review": null,
-    "last_review": null,
-    "review_scores_rating": null,
-    "review_scores_accuracy": null,
-    "review_scores_cleanliness": null,
-    "review_scores_checkin": null,
-    "review_scores_communication": null,
-    "review_scores_location": null,
-    "review_scores_value": null,
-    "license": null,
-    "jurisdiction_names": null,
-    "cancellation_policy": "strict",
-    "calculated_host_listings_count": 1,
-    "reviews_per_month": null,
-    "geolocation": {
-      "lon": -74.01005601582865,
-      "lat": 40.71848503875831
-    },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified",
-      "Is Location Exact"
-    ]
-  },
+
   {
     "id": "10037605",
     "listing_url": "https://www.airbnb.com/rooms/10037605",
@@ -1133,12 +711,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "New York, NY 10001, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Chelsea",
@@ -1211,10 +784,7 @@
       "lon": -73.9963509923239,
       "lat": 40.74844656527941
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified"
-    ]
+    "features": ["Host Has Profile Pic", "Host Identity Verified"]
   },
   {
     "id": "4454538",
@@ -1265,13 +835,7 @@
     "host_neighbourhood": "Upper West Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "kba"],
     "street": "Upper West Side, New York, NY 10025, United States",
     "neighbourhood": "Upper West Side",
     "neighbourhood_cleansed": "Upper West Side",
@@ -1396,11 +960,7 @@
     "host_neighbourhood": "Kips Bay",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Kips Bay, New York, NY 10010, United States",
     "neighbourhood": "Kips Bay",
     "neighbourhood_cleansed": "Kips Bay",
@@ -1478,283 +1038,8 @@
       "Is Location Exact"
     ]
   },
-  {
-    "id": "14206408",
-    "listing_url": "https://www.airbnb.com/rooms/14206408",
-    "scrape_id": "20170502132028",
-    "last_scraped": "2017-05-04",
-    "name": "Stylish 1 BDR in Trendy Location!!",
-    "summary": "Sunny and cozy apt with an absolutely amazing location! Positioned in the middle of everything. Steps away from multiple subway stations, shopping, dinning, the High Line, West 4th restaurants/bars/jazz scene, Chelsea, Soho, greenwich, west & east village!",
-    "space": "Sunny and cozy 1 bedroom apartment in one of the best neighborhoods! Live like a New Yorker in this trendy space and hip environment. Perfect for families and young groups. Ideal location between a selection of subways for easy transportation which you won't need much because you are walking distant to all the fun attractions of New York!",
-    "description": "Sunny and cozy apt with an absolutely amazing location! Positioned in the middle of everything. Steps away from multiple subway stations, shopping, dinning, the High Line, West 4th restaurants/bars/jazz scene, Chelsea, Soho, greenwich, west & east village! Sunny and cozy 1 bedroom apartment in one of the best neighborhoods! Live like a New Yorker in this trendy space and hip environment. Perfect for families and young groups. Ideal location between a selection of subways for easy transportation which you won't need much because you are walking distant to all the fun attractions of New York! I will be around to help guide you with any questions you may have! You will be in the most charming and beautiful neighborhood in NYC. Full of gorgeous brick townhouses, charming little streets, and fantastic restaurants, bars, cafes, and shopping. Go for a run on the gorgeous West Side Highway overlooking the Hudson River! Steps away from public transportation:  -14th Street stations (A/C/E/F/M/1/",
-    "experiences_offered": "none",
-    "neighborhood_overview": "You will be in the most charming and beautiful neighborhood in NYC. Full of gorgeous brick townhouses, charming little streets, and fantastic restaurants, bars, cafes, and shopping. Go for a run on the gorgeous West Side Highway overlooking the Hudson River!",
-    "notes": null,
-    "transit": "Steps away from public transportation:  -14th Street stations (A/C/E/F/M/1/2/3/N/Q/R/4/5/6 trains) -Buses and Citibike rental.",
-    "access": null,
-    "interaction": "I will be around to help guide you with any questions you may have!",
-    "house_rules": null,
-    "thumbnail_url": "https://a0.muscache.com/im/pictures/14a1ca77-5cb3-47ff-8322-2f3df7e7f599.jpg?aki_policy=small",
-    "medium_url": "https://a0.muscache.com/im/pictures/14a1ca77-5cb3-47ff-8322-2f3df7e7f599.jpg?aki_policy=medium",
-    "picture_url": {
-      "thumbnail": true,
-      "filename": "14a1ca77-5cb3-47ff-8322-2f3df7e7f599.jpg",
-      "format": "JPEG",
-      "width": 360,
-      "mimetype": "image/jpeg",
-      "etag": "\"67f13c6d9eff3063bffa965cc3799fa56d93f33d\"",
-      "id": "b17456c2e4f794a5165303439077bbee",
-      "last_synchronized": "2019-06-04T13:54:39.224166",
-      "color_summary": [
-        "rgba(172, 161, 145, 1.00)",
-        "rgba(144, 132, 120, 1.00)",
-        "rgba(97, 75, 56, 1.00)"
-      ],
-      "height": 426
-    },
-    "xl_picture_url": "https://a0.muscache.com/im/pictures/14a1ca77-5cb3-47ff-8322-2f3df7e7f599.jpg?aki_policy=x_large",
-    "host_id": "52071286",
-    "host_url": "https://www.airbnb.com/users/show/52071286",
-    "host_name": "Bryan",
-    "host_since": "2015-12-23",
-    "host_location": "New York, New York, United States",
-    "host_about": "I am a friendly easy-going person.\r\nI like to travel a lot and meet new people.",
-    "host_response_time": "within an hour",
-    "host_response_rate": 100,
-    "host_acceptance_rate": null,
-    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/bca43f83-230a-4d8f-9872-eaaa238643b6.jpg?aki_policy=profile_small",
-    "host_picture_url": "https://a0.muscache.com/im/pictures/bca43f83-230a-4d8f-9872-eaaa238643b6.jpg?aki_policy=profile_x_medium",
-    "host_neighbourhood": "Chelsea",
-    "host_listings_count": 1,
-    "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "amex",
-      "reviews",
-      "jumio"
-    ],
-    "street": "Chelsea, New York, NY 10011, United States",
-    "neighbourhood": "Chelsea",
-    "neighbourhood_cleansed": "Chelsea",
-    "neighbourhood_group_cleansed": "Manhattan",
-    "city": "New York",
-    "state": "NY",
-    "zipcode": "10011",
-    "market": "New York",
-    "smart_location": "New York, NY",
-    "country_code": "US",
-    "country": "United States",
-    "latitude": "40.73907206736963",
-    "longitude": "-73.9994331655055",
-    "property_type": "Apartment",
-    "room_type": "Entire home/apt",
-    "accommodates": 4,
-    "bathrooms": 1.0,
-    "bedrooms": 1,
-    "beds": 2,
-    "bed_type": "Real Bed",
-    "amenities": [
-      "TV",
-      "Cable TV",
-      "Internet",
-      "Wireless Internet",
-      "Air conditioning",
-      "Kitchen",
-      "Heating",
-      "Family/kid friendly",
-      "Smoke detector",
-      "Carbon monoxide detector",
-      "Essentials",
-      "Shampoo",
-      "Hangers",
-      "Iron",
-      "translation missing: en.hosting_amenity_50"
-    ],
-    "square_feet": null,
-    "price": 174,
-    "weekly_price": null,
-    "monthly_price": null,
-    "security_deposit": 500,
-    "cleaning_fee": 70,
-    "guests_included": 2,
-    "extra_people": 25,
-    "minimum_nights": 1,
-    "maximum_nights": 365,
-    "calendar_updated": "4 weeks ago",
-    "has_availability": null,
-    "availability_30": 2,
-    "availability_60": 2,
-    "availability_90": 2,
-    "availability_365": 2,
-    "calendar_last_scraped": "2017-05-04",
-    "number_of_reviews": 16,
-    "first_review": "2016-08-07",
-    "last_review": "2017-03-22",
-    "review_scores_rating": 99,
-    "review_scores_accuracy": 10,
-    "review_scores_cleanliness": 10,
-    "review_scores_checkin": 10,
-    "review_scores_communication": 10,
-    "review_scores_location": 10,
-    "review_scores_value": 10,
-    "license": null,
-    "jurisdiction_names": null,
-    "cancellation_policy": "strict",
-    "calculated_host_listings_count": 1,
-    "reviews_per_month": 1.77,
-    "geolocation": {
-      "lon": -73.9994331655055,
-      "lat": 40.73907206736963
-    },
-    "features": [
-      "Host Is Superhost",
-      "Host Has Profile Pic",
-      "Host Identity Verified",
-      "Is Location Exact",
-      "Instant Bookable"
-    ]
-  },
-  {
-    "id": "13777303",
-    "listing_url": "https://www.airbnb.com/rooms/13777303",
-    "scrape_id": "20170502132028",
-    "last_scraped": "2017-05-03",
-    "name": "Chelsea  Modern 1 BR. Apartment",
-    "summary": "Heart of Chelsea, close to Madison Square Park, Herald Square, Eataly, Subway (F,M,N,Q,R), Times Square, Bryant Park, Union Square, Madison Square Garden, Penn Station, many restaurants.  Great location,  easy accessibility, sunlight, Concierge service, Doorman, High-rise.   Great for couples, solo adventurers, business travelers, and families (with kids).",
-    "space": null,
-    "description": "Heart of Chelsea, close to Madison Square Park, Herald Square, Eataly, Subway (F,M,N,Q,R), Times Square, Bryant Park, Union Square, Madison Square Garden, Penn Station, many restaurants.  Great location,  easy accessibility, sunlight, Concierge service, Doorman, High-rise.   Great for couples, solo adventurers, business travelers, and families (with kids).",
-    "experiences_offered": "none",
-    "neighborhood_overview": null,
-    "notes": null,
-    "transit": null,
-    "access": null,
-    "interaction": null,
-    "house_rules": null,
-    "thumbnail_url": "https://a0.muscache.com/im/pictures/edd6cde5-73ea-4f54-ad58-ae4c3f9f70db.jpg?aki_policy=small",
-    "medium_url": "https://a0.muscache.com/im/pictures/edd6cde5-73ea-4f54-ad58-ae4c3f9f70db.jpg?aki_policy=medium",
-    "picture_url": {
-      "thumbnail": true,
-      "filename": "edd6cde5-73ea-4f54-ad58-ae4c3f9f70db.jpg",
-      "format": "JPEG",
-      "width": 639,
-      "mimetype": "image/jpeg",
-      "etag": "\"3ff10b3d35f4b6ede82980072ca27f6bb5187abf\"",
-      "id": "e58cfe035e85b7979704590cef07c506",
-      "last_synchronized": "2019-06-04T19:53:25.849862",
-      "color_summary": [
-        "rgba(139, 133, 119, 1.00)",
-        "rgba(116, 113, 107, 1.00)",
-        "rgba(77, 76, 74, 1.00)"
-      ],
-      "height": 426
-    },
-    "xl_picture_url": "https://a0.muscache.com/im/pictures/edd6cde5-73ea-4f54-ad58-ae4c3f9f70db.jpg?aki_policy=x_large",
-    "host_id": "70181692",
-    "host_url": "https://www.airbnb.com/users/show/70181692",
-    "host_name": "Sayed",
-    "host_since": "2016-05-03",
-    "host_location": "Berket an Nasr, Cairo Governorate, Egypt",
-    "host_about": null,
-    "host_response_time": null,
-    "host_response_rate": null,
-    "host_acceptance_rate": null,
-    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/66b8bf09-ca46-4607-bb8d-5ef59513a83c.jpg?aki_policy=profile_small",
-    "host_picture_url": "https://a0.muscache.com/im/pictures/66b8bf09-ca46-4607-bb8d-5ef59513a83c.jpg?aki_policy=profile_x_medium",
-    "host_neighbourhood": "Flatiron District",
-    "host_listings_count": 1,
-    "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
-    "street": "Flatiron District, New York, NY 10010, United States",
-    "neighbourhood": "Flatiron District",
-    "neighbourhood_cleansed": "Midtown",
-    "neighbourhood_group_cleansed": "Manhattan",
-    "city": "New York",
-    "state": "NY",
-    "zipcode": "10010",
-    "market": "New York",
-    "smart_location": "New York, NY",
-    "country_code": "US",
-    "country": "United States",
-    "latitude": "40.74594605117716",
-    "longitude": "-73.9899634420426",
-    "property_type": "Apartment",
-    "room_type": "Entire home/apt",
-    "accommodates": 3,
-    "bathrooms": 1.0,
-    "bedrooms": 1,
-    "beds": 2,
-    "bed_type": "Real Bed",
-    "amenities": [
-      "TV",
-      "Cable TV",
-      "Internet",
-      "Wireless Internet",
-      "Air conditioning",
-      "Wheelchair accessible",
-      "Kitchen",
-      "Doorman",
-      "Gym",
-      "Elevator in building",
-      "Heating",
-      "Family/kid friendly",
-      "Washer",
-      "Dryer",
-      "Smoke detector",
-      "Carbon monoxide detector",
-      "Essentials",
-      "Shampoo",
-      "24-hour check-in",
-      "Hangers",
-      "Hair dryer",
-      "Iron",
-      "Laptop friendly workspace"
-    ],
-    "square_feet": null,
-    "price": 399,
-    "weekly_price": null,
-    "monthly_price": null,
-    "security_deposit": 500,
-    "cleaning_fee": 60,
-    "guests_included": 1,
-    "extra_people": 0,
-    "minimum_nights": 1,
-    "maximum_nights": 30,
-    "calendar_updated": "5 weeks ago",
-    "has_availability": null,
-    "availability_30": 0,
-    "availability_60": 0,
-    "availability_90": 0,
-    "availability_365": 0,
-    "calendar_last_scraped": "2017-05-03",
-    "number_of_reviews": 1,
-    "first_review": "2016-08-08",
-    "last_review": "2016-08-08",
-    "review_scores_rating": 100,
-    "review_scores_accuracy": 10,
-    "review_scores_cleanliness": 10,
-    "review_scores_checkin": 10,
-    "review_scores_communication": 10,
-    "review_scores_location": 10,
-    "review_scores_value": 8,
-    "license": null,
-    "jurisdiction_names": null,
-    "cancellation_policy": "moderate",
-    "calculated_host_listings_count": 1,
-    "reviews_per_month": 0.11,
-    "geolocation": {
-      "lon": -73.9899634420426,
-      "lat": 40.74594605117716
-    },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
-  },
+
+  
   {
     "id": "2276065",
     "listing_url": "https://www.airbnb.com/rooms/2276065",
@@ -1804,10 +1089,7 @@
     "host_neighbourhood": "Midtown",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone"
-    ],
+    "host_verifications": ["email", "phone"],
     "street": "Midtown, New York, NY 10018, United States",
     "neighbourhood": "Midtown",
     "neighbourhood_cleansed": "Midtown",
@@ -1879,10 +1161,7 @@
       "lon": -73.98724936210606,
       "lat": 40.75225117389139
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "3666146",
@@ -2069,12 +1348,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews"],
     "street": "New York, NY 10014, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "West Village",
@@ -2154,9 +1428,7 @@
       "lon": -74.00533958179042,
       "lat": 40.73067822731695
     },
-    "features": [
-      "Host Has Profile Pic"
-    ]
+    "features": ["Host Has Profile Pic"]
   },
   {
     "id": "6912558",
@@ -2349,12 +1621,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Harlem, New York, NY 10026, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -2625,11 +1892,7 @@
     "host_neighbourhood": "Upper West Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Upper West Side, New York, NY 10024, United States",
     "neighbourhood": "Upper West Side",
     "neighbourhood_cleansed": "Upper West Side",
@@ -2701,148 +1964,9 @@
       "lon": -73.97519664144563,
       "lat": 40.78598004506646
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
-  {
-    "id": "8421416",
-    "listing_url": "https://www.airbnb.com/rooms/8421416",
-    "scrape_id": "20170502132028",
-    "last_scraped": "2017-05-04",
-    "name": "Luxury Apartment Rental UES",
-    "summary": "This apartment has three full bedrooms, with a central living area, as well as a brand new kitchen. The apartment comes equipped with all the necessities (including kitchenware). Apartment comes with free gym, rooftop entry, and doormen.",
-    "space": null,
-    "description": "This apartment has three full bedrooms, with a central living area, as well as a brand new kitchen. The apartment comes equipped with all the necessities (including kitchenware). Apartment comes with free gym, rooftop entry, and doormen.",
-    "experiences_offered": "none",
-    "neighborhood_overview": null,
-    "notes": null,
-    "transit": null,
-    "access": null,
-    "interaction": null,
-    "house_rules": null,
-    "thumbnail_url": null,
-    "medium_url": null,
-    "picture_url": {
-      "thumbnail": true,
-      "filename": "0b0e9d00_original.jpg",
-      "format": "JPEG",
-      "width": 360,
-      "mimetype": "image/jpeg",
-      "etag": "\"20c709b90b17dd420d556ec84aa480c71628d975\"",
-      "id": "1233382e3a63321ca1df26e989a415ed",
-      "last_synchronized": "2019-06-04T22:01:36.093546",
-      "color_summary": [
-        "rgba(201, 167, 154, 1.00)",
-        "rgba(127, 108, 118, 1.00)",
-        "rgba(157, 132, 128, 1.00)"
-      ],
-      "height": 426
-    },
-    "xl_picture_url": null,
-    "host_id": "44352618",
-    "host_url": "https://www.airbnb.com/users/show/44352618",
-    "host_name": "Michelle",
-    "host_since": "2015-09-16",
-    "host_location": "New York, New York, United States",
-    "host_about": null,
-    "host_response_time": null,
-    "host_response_rate": null,
-    "host_acceptance_rate": null,
-    "host_thumbnail_url": "https://a0.muscache.com/im/users/44352618/profile_pic/1442843780/original.jpg?aki_policy=profile_small",
-    "host_picture_url": "https://a0.muscache.com/im/users/44352618/profile_pic/1442843780/original.jpg?aki_policy=profile_x_medium",
-    "host_neighbourhood": "Upper East Side",
-    "host_listings_count": 1,
-    "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "linkedin",
-      "reviews",
-      "jumio"
-    ],
-    "street": "Upper East Side, New York, NY 10021, United States",
-    "neighbourhood": "Upper East Side",
-    "neighbourhood_cleansed": "Upper East Side",
-    "neighbourhood_group_cleansed": "Manhattan",
-    "city": "New York",
-    "state": "NY",
-    "zipcode": "10021",
-    "market": "New York",
-    "smart_location": "New York, NY",
-    "country_code": "US",
-    "country": "United States",
-    "latitude": "40.77032907155358",
-    "longitude": "-73.9595647549262",
-    "property_type": "Apartment",
-    "room_type": "Entire home/apt",
-    "accommodates": 6,
-    "bathrooms": 1.5,
-    "bedrooms": 3,
-    "beds": 3,
-    "bed_type": "Real Bed",
-    "amenities": [
-      "TV",
-      "Cable TV",
-      "Internet",
-      "Wireless Internet",
-      "Air conditioning",
-      "Wheelchair accessible",
-      "Kitchen",
-      "Doorman",
-      "Gym",
-      "Elevator in building",
-      "Heating",
-      "Family/kid friendly",
-      "Washer",
-      "Dryer",
-      "Smoke detector",
-      "Fire extinguisher",
-      "Essentials"
-    ],
-    "square_feet": null,
-    "price": 900,
-    "weekly_price": null,
-    "monthly_price": null,
-    "security_deposit": null,
-    "cleaning_fee": null,
-    "guests_included": 1,
-    "extra_people": 0,
-    "minimum_nights": 1,
-    "maximum_nights": 1125,
-    "calendar_updated": "20 months ago",
-    "has_availability": null,
-    "availability_30": 0,
-    "availability_60": 0,
-    "availability_90": 0,
-    "availability_365": 0,
-    "calendar_last_scraped": "2017-05-03",
-    "number_of_reviews": 0,
-    "first_review": null,
-    "last_review": null,
-    "review_scores_rating": null,
-    "review_scores_accuracy": null,
-    "review_scores_cleanliness": null,
-    "review_scores_checkin": null,
-    "review_scores_communication": null,
-    "review_scores_location": null,
-    "review_scores_value": null,
-    "license": null,
-    "jurisdiction_names": null,
-    "cancellation_policy": "flexible",
-    "calculated_host_listings_count": 1,
-    "reviews_per_month": null,
-    "geolocation": {
-      "lon": -73.9595647549262,
-      "lat": 40.77032907155358
-    },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified",
-      "Is Location Exact"
-    ]
-  },
+
   {
     "id": "12430153",
     "listing_url": "https://www.airbnb.com/rooms/12430153",
@@ -2892,13 +2016,7 @@
     "host_neighbourhood": "Upper West Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "kba"],
     "street": "Upper West Side, New York, NY 10023, United States",
     "neighbourhood": "Upper West Side",
     "neighbourhood_cleansed": "Upper West Side",
@@ -3031,11 +2149,7 @@
     "host_neighbourhood": "Upper East Side",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Upper East Side, New York, NY 10028, United States",
     "neighbourhood": "Upper East Side",
     "neighbourhood_cleansed": "Upper East Side",
@@ -3112,10 +2226,7 @@
       "lon": -73.94630889085482,
       "lat": 40.77210485304527
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "17331035",
@@ -3166,13 +2277,7 @@
     "host_neighbourhood": "East Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "jumio"],
     "street": "East Harlem, New York, NY 10029, United States",
     "neighbourhood": "East Harlem",
     "neighbourhood_cleansed": "East Harlem",
@@ -3302,11 +2407,7 @@
     "host_neighbourhood": "Nolita",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Nolita, New York, NY 10012, United States",
     "neighbourhood": "Nolita",
     "neighbourhood_cleansed": "Nolita",
@@ -3431,12 +2532,7 @@
     "host_neighbourhood": "Flatiron District",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Flatiron District, New York, NY 10016, United States",
     "neighbourhood": "Flatiron District",
     "neighbourhood_cleansed": "Midtown",
@@ -3565,11 +2661,7 @@
     "host_neighbourhood": "Chinatown",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Chinatown, New York, NY 10013, United States",
     "neighbourhood": "Chinatown",
     "neighbourhood_cleansed": "Little Italy",
@@ -3635,10 +2727,7 @@
       "lon": -73.99631839000581,
       "lat": 40.71971614957345
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "16630410",
@@ -3689,11 +2778,7 @@
     "host_neighbourhood": "West Village",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["phone", "facebook", "reviews"],
     "street": "West Village, New York, NY 10014, United States",
     "neighbourhood": "West Village",
     "neighbourhood_cleansed": "West Village",
@@ -3762,10 +2847,7 @@
       "lon": -74.00466554309871,
       "lat": 40.73362723668361
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "17828341",
@@ -3816,11 +2898,7 @@
     "host_neighbourhood": "Upper West Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Upper West Side, New York, NY 10023, United States",
     "neighbourhood": "Upper West Side",
     "neighbourhood_cleansed": "Upper West Side",
@@ -3893,10 +2971,7 @@
       "lon": -73.98046091539179,
       "lat": 40.77251889421082
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "9992858",
@@ -3947,12 +3022,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Harlem, New York, NY 10030, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -4023,9 +3093,7 @@
       "lon": -73.9491979936237,
       "lat": 40.81460363870471
     },
-    "features": [
-      "Is Location Exact"
-    ]
+    "features": ["Is Location Exact"]
   },
   {
     "id": "13281582",
@@ -4076,12 +3144,7 @@
     "host_neighbourhood": "Washington Heights",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "reviews",
-      "jumio",
-      "government_id"
-    ],
+    "host_verifications": ["email", "reviews", "jumio", "government_id"],
     "street": "Washington Heights, New York, NY 10032, United States",
     "neighbourhood": "Washington Heights",
     "neighbourhood_cleansed": "Washington Heights",
@@ -4149,10 +3212,7 @@
       "lon": -73.94097175567538,
       "lat": 40.8438547209613
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "4622869",
@@ -4203,13 +3263,7 @@
     "host_neighbourhood": "Lower East Side",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "kba"],
     "street": "Lower East Side, New York, NY 10002, United States",
     "neighbourhood": "Lower East Side",
     "neighbourhood_cleansed": "Chinatown",
@@ -4485,12 +3539,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Harlem, New York, NY 10026, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -4625,11 +3674,7 @@
     "host_neighbourhood": "Greenwich Village",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Greenwich Village, New York, NY 10003, United States",
     "neighbourhood": "Greenwich Village",
     "neighbourhood_cleansed": "Greenwich Village",
@@ -4698,10 +3743,7 @@
       "lon": -73.99295439850422,
       "lat": 40.730157141712844
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "17186736",
@@ -4752,13 +3794,7 @@
     "host_neighbourhood": "Lower East Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio",
-      "work_email"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio", "work_email"],
     "street": "Lower East Side, New York, NY 10002, United States",
     "neighbourhood": "Lower East Side",
     "neighbourhood_cleansed": "Lower East Side",
@@ -4890,13 +3926,7 @@
     "host_neighbourhood": "Upper East Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba",
-      "work_email"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba", "work_email"],
     "street": "Upper East Side, New York, NY 10065, United States",
     "neighbourhood": "Upper East Side",
     "neighbourhood_cleansed": "Upper East Side",
@@ -5027,13 +4057,7 @@
     "host_neighbourhood": "East Village",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "jumio"],
     "street": "East Village, New York, NY 10003, United States",
     "neighbourhood": "East Village",
     "neighbourhood_cleansed": "East Village",
@@ -5160,12 +4184,7 @@
     "host_neighbourhood": "Mid-Wilshire",
     "host_listings_count": 4,
     "host_total_listings_count": 4,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "manual_offline"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "manual_offline"],
     "street": "Harlem, New York, NY 10027, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -5301,12 +4320,7 @@
     "host_neighbourhood": "Hamilton Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews"],
     "street": "Hamilton Heights, New York, NY 10031, United States",
     "neighbourhood": "Hamilton Heights",
     "neighbourhood_cleansed": "Harlem",
@@ -5386,10 +4400,7 @@
       "lon": -73.95628247631834,
       "lat": 40.82087761409976
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "12522809",
@@ -5440,11 +4451,7 @@
     "host_neighbourhood": "Financial District",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "jumio"],
     "street": "Financial District, New York, NY 10038, United States",
     "neighbourhood": "Financial District",
     "neighbourhood_cleansed": "Financial District",
@@ -5522,9 +4529,7 @@
       "lon": -74.00691574576933,
       "lat": 40.70785288277461
     },
-    "features": [
-      "Is Location Exact"
-    ]
+    "features": ["Is Location Exact"]
   },
   {
     "id": "9745297",
@@ -5575,12 +4580,7 @@
     "host_neighbourhood": "Lower East Side",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Soho, New York, NY 10013, United States",
     "neighbourhood": "Soho",
     "neighbourhood_cleansed": "SoHo",
@@ -5848,11 +4848,7 @@
     "host_neighbourhood": "Inwood",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Inwood, New York, NY 10034, United States",
     "neighbourhood": "Inwood",
     "neighbourhood_cleansed": "Inwood",
@@ -6117,12 +5113,7 @@
     "host_neighbourhood": "Gramercy Park",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Gramercy Park, New York, NY 10003, United States",
     "neighbourhood": "Gramercy Park",
     "neighbourhood_cleansed": "Gramercy",
@@ -6253,13 +5244,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio", "kba"],
     "street": "Harlem, New York, NY 10026, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -6388,10 +5373,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone"
-    ],
+    "host_verifications": ["email", "phone"],
     "street": "New York, NY 10022, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Midtown",
@@ -6461,9 +5443,7 @@
       "lon": -73.97012174810487,
       "lat": 40.75415618990103
     },
-    "features": [
-      "Host Has Profile Pic"
-    ]
+    "features": ["Host Has Profile Pic"]
   },
   {
     "id": "57161",
@@ -6514,12 +5494,7 @@
     "host_neighbourhood": "Hamilton Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Hamilton Heights, New York, NY 10030, United States",
     "neighbourhood": "Hamilton Heights",
     "neighbourhood_cleansed": "Harlem",
@@ -6785,12 +5760,7 @@
     "host_neighbourhood": "Upper East Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Upper East Side, New York, NY 10021, United States",
     "neighbourhood": "Upper East Side",
     "neighbourhood_cleansed": "Upper East Side",
@@ -6919,12 +5889,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Harlem, New York, NY 10027, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -7055,12 +6020,7 @@
     "host_neighbourhood": "Washington Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Washington Heights, New York, NY 10040, United States",
     "neighbourhood": "Washington Heights",
     "neighbourhood_cleansed": "Washington Heights",
@@ -7173,11 +6133,7 @@
     "host_neighbourhood": "Morningside Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "jumio"],
     "street": "Morningside Heights, New York, NY 10025, United States",
     "neighbourhood": "Morningside Heights",
     "neighbourhood_cleansed": "Morningside Heights",
@@ -7250,10 +6206,7 @@
       "lon": -73.96401480812675,
       "lat": 40.80460980425769
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "17269704",
@@ -7447,13 +6400,7 @@
     "host_neighbourhood": "Fenway/Kenmore",
     "host_listings_count": 855,
     "host_total_listings_count": 855,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio",
-      "work_email"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio", "work_email"],
     "street": "Hell's Kitchen, New York, NY 10036, United States",
     "neighbourhood": "Hell's Kitchen",
     "neighbourhood_cleansed": "Hell's Kitchen",
@@ -7589,12 +6536,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "New York, NY 11385, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Ridgewood",
@@ -7669,10 +6611,7 @@
       "lon": -73.90237273360178,
       "lat": 40.70156118337631
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified"
-    ]
+    "features": ["Host Has Profile Pic", "Host Identity Verified"]
   },
   {
     "id": "16947854",
@@ -7857,13 +6796,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba",
-      "work_email"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba", "work_email"],
     "street": "Harlem, New York, NY 10026, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -7993,11 +6926,7 @@
     "host_neighbourhood": "Lower East Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Lower East Side, New York, NY 10002, United States",
     "neighbourhood": "Lower East Side",
     "neighbourhood_cleansed": "Lower East Side",
@@ -8128,12 +7057,7 @@
     "host_neighbourhood": "Morningside Heights",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Morningside Heights, New York, NY 10025, United States",
     "neighbourhood": "Morningside Heights",
     "neighbourhood_cleansed": "Morningside Heights",
@@ -8256,12 +7180,7 @@
     "host_neighbourhood": "Nolita",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Nolita, New York, NY 10012, United States",
     "neighbourhood": "Nolita",
     "neighbourhood_cleansed": "Nolita",
@@ -8537,12 +7456,7 @@
     "host_neighbourhood": "Washington Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Washington Heights, New York, NY 10032, United States",
     "neighbourhood": "Washington Heights",
     "neighbourhood_cleansed": "Washington Heights",
@@ -8670,13 +7584,7 @@
     "host_neighbourhood": "Manhattan",
     "host_listings_count": 3,
     "host_total_listings_count": 3,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba",
-      "work_email"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba", "work_email"],
     "street": "Manhattan, New York, NY 10023, United States",
     "neighbourhood": "Manhattan",
     "neighbourhood_cleansed": "Upper West Side",
@@ -8811,12 +7719,7 @@
     "host_neighbourhood": "Morrisania",
     "host_listings_count": 4,
     "host_total_listings_count": 4,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "New York, NY 10456, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Morrisania",
@@ -9076,11 +7979,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook"
-    ],
+    "host_verifications": ["email", "phone", "facebook"],
     "street": "Harlem, New York, NY 10030, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -9200,11 +8099,7 @@
     "host_neighbourhood": "Hamilton Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Hamilton Heights, New York, NY 10031, United States",
     "neighbourhood": "Hamilton Heights",
     "neighbourhood_cleansed": "Harlem",
@@ -9274,10 +8169,7 @@
       "lon": -73.9430695393683,
       "lat": 40.828882489280154
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "16669126",
@@ -9478,12 +8370,7 @@
     "host_neighbourhood": "Kips Bay",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Kips Bay, New York, NY 10016, United States",
     "neighbourhood": "Kips Bay",
     "neighbourhood_cleansed": "Kips Bay",
@@ -9612,11 +8499,7 @@
     "host_neighbourhood": "Gramercy Park",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Gramercy Park, New York, NY 10003, United States",
     "neighbourhood": "Gramercy Park",
     "neighbourhood_cleansed": "Gramercy",
@@ -9688,9 +8571,7 @@
       "lon": -73.98569616542242,
       "lat": 40.736081894147475
     },
-    "features": [
-      "Host Has Profile Pic"
-    ]
+    "features": ["Host Has Profile Pic"]
   },
   {
     "id": "17775456",
@@ -9741,12 +8622,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "New York, NY 10010, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Flatiron District",
@@ -9820,10 +8696,7 @@
       "lon": -73.9916029950292,
       "lat": 40.74433258291972
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified"
-    ]
+    "features": ["Host Has Profile Pic", "Host Identity Verified"]
   },
   {
     "id": "17952216",
@@ -10005,11 +8878,7 @@
     "host_neighbourhood": "South Street Seaport",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "South Street Seaport, New York, NY 10038, United States",
     "neighbourhood": "South Street Seaport",
     "neighbourhood_cleansed": "Financial District",
@@ -10088,10 +8957,7 @@
       "lon": -73.99991592091773,
       "lat": 40.708535793142765
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "4279550",
@@ -10142,11 +9008,7 @@
     "host_neighbourhood": "Lower East Side",
     "host_listings_count": 3,
     "host_total_listings_count": 3,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Lower East Side, New York, NY 10002, United States",
     "neighbourhood": "Lower East Side",
     "neighbourhood_cleansed": "Lower East Side",
@@ -10279,13 +9141,7 @@
     "host_neighbourhood": "Upper East Side",
     "host_listings_count": 6,
     "host_total_listings_count": 6,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "jumio"],
     "street": "Upper East Side, New York, NY 10028, United States",
     "neighbourhood": "Upper East Side",
     "neighbourhood_cleansed": "Upper East Side",
@@ -10414,10 +9270,7 @@
     "host_neighbourhood": "Roosevelt Island",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["phone", "reviews"],
     "street": "Roosevelt Island, New York, NY 10044, United States",
     "neighbourhood": "Roosevelt Island",
     "neighbourhood_cleansed": "Roosevelt Island",
@@ -10501,10 +9354,7 @@
       "lon": -73.94840559230606,
       "lat": 40.764440881785234
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "2138787",
@@ -10555,12 +9405,7 @@
     "host_neighbourhood": "Washington Heights",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews"],
     "street": "Washington Heights, New York, NY 10032, United States",
     "neighbourhood": "Washington Heights",
     "neighbourhood_cleansed": "Washington Heights",
@@ -10695,13 +9540,7 @@
     "host_neighbourhood": "Harlem",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "linkedin",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "linkedin", "reviews", "kba"],
     "street": "Harlem, New York, NY 10027, United States",
     "neighbourhood": "Harlem",
     "neighbourhood_cleansed": "Harlem",
@@ -10834,12 +9673,7 @@
     "host_neighbourhood": "Hudson Square",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Hudson Square, New York, NY 10013, United States",
     "neighbourhood": "Hudson Square",
     "neighbourhood_cleansed": "SoHo",
@@ -11111,13 +9945,7 @@
     "host_neighbourhood": "Flatiron District",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "kba"],
     "street": "Flatiron District, New York, NY 10001, United States",
     "neighbourhood": "Flatiron District",
     "neighbourhood_cleansed": "Midtown",
@@ -11247,11 +10075,7 @@
     "host_neighbourhood": "Morningside Heights",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Morningside Heights, New York, NY 10026, United States",
     "neighbourhood": "Morningside Heights",
     "neighbourhood_cleansed": "Morningside Heights",
@@ -11330,10 +10154,7 @@
       "lon": -73.95892954411575,
       "lat": 40.80264183265281
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "7547439",
@@ -11384,12 +10205,7 @@
     "host_neighbourhood": "East Village",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews"],
     "street": "East Village, New York, NY 10003, United States",
     "neighbourhood": "East Village",
     "neighbourhood_cleansed": "East Village",
@@ -11466,10 +10282,7 @@
       "lon": -73.98931691249966,
       "lat": 40.72962475682419
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "5806416",
@@ -11520,12 +10333,7 @@
     "host_neighbourhood": "Nolita",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Nolita, New York, NY 10012, United States",
     "neighbourhood": "Nolita",
     "neighbourhood_cleansed": "Nolita",
@@ -11661,12 +10469,7 @@
     "host_neighbourhood": "Washington Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Washington Heights, New York, NY 10032, United States",
     "neighbourhood": "Washington Heights",
     "neighbourhood_cleansed": "Washington Heights",
@@ -11803,12 +10606,7 @@
     "host_neighbourhood": "Flatiron District",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Flatiron District, New York, NY 10016, United States",
     "neighbourhood": "Flatiron District",
     "neighbourhood_cleansed": "Midtown",
@@ -11943,12 +10741,7 @@
     "host_neighbourhood": "Hamilton Heights",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Hamilton Heights, New York, NY 10031, United States",
     "neighbourhood": "Hamilton Heights",
     "neighbourhood_cleansed": "Harlem",
@@ -12080,12 +10873,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "New York, NY 10027, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Harlem",
@@ -12153,10 +10941,7 @@
       "lon": -73.949847857765,
       "lat": 40.80723403572077
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Host Identity Verified"
-    ]
+    "features": ["Host Has Profile Pic", "Host Identity Verified"]
   },
   {
     "id": "15732535",
@@ -12207,13 +10992,7 @@
     "host_neighbourhood": "Hamilton Heights",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "jumio"],
     "street": "Hamilton Heights, New York, NY 10031, United States",
     "neighbourhood": "Hamilton Heights",
     "neighbourhood_cleansed": "Harlem",
@@ -12346,12 +11125,7 @@
     "host_neighbourhood": "Noho",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "jumio"],
     "street": "Noho, New York, NY 10003, United States",
     "neighbourhood": "Noho",
     "neighbourhood_cleansed": "NoHo",
@@ -12473,12 +11247,7 @@
     "host_neighbourhood": "Tribeca",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "Tribeca, New York, NY 10013, United States",
     "neighbourhood": "Tribeca",
     "neighbourhood_cleansed": "Tribeca",
@@ -12608,12 +11377,7 @@
     "host_neighbourhood": "Hell's Kitchen",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews"],
     "street": "Hell's Kitchen, New York, NY 10036, United States",
     "neighbourhood": "Hell's Kitchen",
     "neighbourhood_cleansed": "Hell's Kitchen",
@@ -12685,10 +11449,7 @@
       "lon": -73.98983505395196,
       "lat": 40.76262792600379
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "16576587",
@@ -12739,11 +11500,7 @@
     "host_neighbourhood": "Upper West Side",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "Upper West Side, New York, NY 10025, United States",
     "neighbourhood": "Upper West Side",
     "neighbourhood_cleansed": "Upper West Side",
@@ -12815,10 +11572,7 @@
       "lon": -73.96051028892161,
       "lat": 40.79955069180152
     },
-    "features": [
-      "Host Has Profile Pic",
-      "Is Location Exact"
-    ]
+    "features": ["Host Has Profile Pic", "Is Location Exact"]
   },
   {
     "id": "18033562",
@@ -12869,13 +11623,7 @@
     "host_neighbourhood": "Times Square/Theatre District",
     "host_listings_count": 2,
     "host_total_listings_count": 2,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "linkedin",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "linkedin", "reviews"],
     "street": "Times Square/Theatre District, New York, NY 10019, United States",
     "neighbourhood": "Times Square/Theatre District",
     "neighbourhood_cleansed": "Theater District",
@@ -13012,13 +11760,7 @@
     "host_neighbourhood": "Greenwich Village",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "facebook",
-      "reviews",
-      "jumio"
-    ],
+    "host_verifications": ["email", "phone", "facebook", "reviews", "jumio"],
     "street": "Greenwich Village, New York, NY 10003, United States",
     "neighbourhood": "Greenwich Village",
     "neighbourhood_cleansed": "Greenwich Village",
@@ -13293,12 +12035,7 @@
     "host_neighbourhood": "East Harlem",
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews",
-      "kba"
-    ],
+    "host_verifications": ["email", "phone", "reviews", "kba"],
     "street": "East Harlem, New York, NY 10035, United States",
     "neighbourhood": "East Harlem",
     "neighbourhood_cleansed": "East Harlem",
@@ -13431,11 +12168,7 @@
     "host_neighbourhood": null,
     "host_listings_count": 1,
     "host_total_listings_count": 1,
-    "host_verifications": [
-      "email",
-      "phone",
-      "reviews"
-    ],
+    "host_verifications": ["email", "phone", "reviews"],
     "street": "New York, NY 10017, United States",
     "neighbourhood": null,
     "neighbourhood_cleansed": "Midtown",
@@ -13513,8 +12246,6 @@
       "lon": -73.97060572556478,
       "lat": 40.75258539222402
     },
-    "features": [
-      "Host Has Profile Pic"
-    ]
+    "features": ["Host Has Profile Pic"]
   }
 ]

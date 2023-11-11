@@ -58,6 +58,11 @@ const Listings = ({ listings: items, category }: Props) => {
               </Text>
             </View>
           </View>
+          <Text style={{ fontFamily: "regular" }}>{item.room_type}</Text>
+          <View style={{ flexDirection: "row", gap: 4 }}>
+            <Text style={{ fontFamily: "semibold" }}>$ {item.price}</Text>
+            <Text style={{ fontFamily: "regular" }}>/ night</Text>
+          </View>
         </View>
       </TouchableOpacity>
     </Link>
