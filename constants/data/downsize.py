@@ -27,7 +27,7 @@ datasets = [
 ]
 
 # Specify the desired subset size
-subset_size = 500
+subset_size = 100
 
 # Create a subset for each dataset
 for dataset in datasets:
